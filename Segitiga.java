@@ -1,7 +1,6 @@
 public class Segitiga extends BangunDatar{
     public float alas;
     public float tinggi;
-    public float c;
 
     @Override
     public float luas(){
